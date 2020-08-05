@@ -36,8 +36,6 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UnRealReincarlution&show_icons=true&hide_border=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnRealReincarlution&hide=html,css&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br />
 
