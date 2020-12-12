@@ -2,7 +2,7 @@
 ### 🎓 I'm a Student and Semi-Self-Taught Developer
 - 🔭 I’m currently working on my own projects (Fortitude and NCEA Scholarship)
 - 🌱 I’m currently learning everything I can!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects, Create more Low-Level Programs
 
 ---
 
