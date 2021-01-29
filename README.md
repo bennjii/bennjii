@@ -1,6 +1,6 @@
 # Hi there 👋 
 ### 🎓 I'm a Student and Semi-Self-Taught Developer
-- 🔭 I’m currently working on my own projects (Arduino, React Expereince Development and more...)
+- 🔭 I’m currently working on my own projects (Arduino, NextJS, Typescript, React and more...)
 - 🌱 I’m currently learning everything I can!
 - 🥅 2021 Goals: Contribute more to Open Source projects, Create more Low-Level Programs
 
