@@ -4,11 +4,12 @@
 - 🌱 I’m trying to learn everything I can!
 - 🥅 2021 Goals: Contribute more to Open Source projects, Create more Low-Level Programs!
 
----
 
-<a>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UnRealReincarlution&show_icons=true&hide_border=true" />
-</a>
+
+### ℹ️ Learn More
+Head to my portfolio!
+https://ben-white.vercel.app/
+
 
 
 <br />
