@@ -6,5 +6,3 @@ Hey, I'm **Ben White**, I'm a 17 year old developer from **Auckland, New Zealand
 - 🥅 2022 Goals: Contribute more to Open Source projects and make a large rust project!
 
 Feel free to take a look at my [portfolio](https://ben-white.vercel.app/), or contact me on discord: unrealg#4406, [twitter](https://twitter.com/@UnRealG3) or via [email](unrealdev.buisiness@gmail.com). Talk soon 👋!
-
-<br />
