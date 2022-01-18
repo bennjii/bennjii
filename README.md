@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/924157805383016558/932564935106527242/github_banner.png" />
+<img src="https://cdn.discordapp.com/attachments/924157805383016558/932787776246677514/github_splash3.png" />
 
 Hey, I'm **Ben White**, I'm a 17 year old developer from **Auckland, New Zealand**. I create projects to help others, and in the process - learn new things for myself. I'm allways learning, and will likely never stop growing.  
 - 🔭 I’m currently working a free VPN service 🤫
